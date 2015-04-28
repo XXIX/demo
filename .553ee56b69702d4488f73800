@@ -1,5 +1,5 @@
 ---
-time: 1430186149
+time: 1430186593
 inventory:
   "/home/index.html":
     md5: 51c0406f8d6b2b8c96fb7ad433e462e5
@@ -7,15 +7,18 @@ inventory:
   "/index.html":
     md5: 51c0406f8d6b2b8c96fb7ad433e462e5
     time: 1430186149
+  "/about/index.html":
+    md5: 977955590957194ebac803196beeb0f9
+    time: 1430186593
   "/CNAME":
     md5: b7ed7c2fa9fd73753a897d9e784d09c3
     time: 1430186149
   "/sitemap.xml":
-    md5: e5222d1ff326989b246ae0e2dd54417f
-    time: 1430186149
+    md5: f3879059774c69b96562ad1253214fed
+    time: 1430186593
   "/feed.xml":
-    md5: 80cd0aec2f3c7cc0bdbfaf0f2ea8c507
-    time: 1430186149
+    md5: 52e14ff39a6fa757241aaeff3eb4bbb3
+    time: 1430186593
   "/style.css":
     md5: e4572a92d9f52ac27a6252e58165ec82
     time: 1430186149
